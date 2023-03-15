@@ -1,2 +1,2 @@
-# yangzi
+# yangzte
 tiddlywiki libro style
